@@ -1,0 +1,15 @@
+.about {
+  min-height: 100vh;
+  height: auto;
+  width: 100%;
+}
+
+.about h1 {
+  padding: 70px 270px;
+  font-weight: 400;
+}
+
+.about p {
+  padding: 0px 270px;
+  color: #aaa;
+}

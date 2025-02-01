@@ -1,0 +1,29 @@
+nav .navbar-brand {
+  padding-left: 50px;
+  font-size: 50px;
+  color: rgb(0, 201, 147);
+  font-weight: bold;
+}
+
+.parent {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.navbar-nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.nav-item {
+  color: black;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.nav-item.active {
+  color: rgb(0, 201, 147);
+}

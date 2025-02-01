@@ -1,0 +1,10 @@
+.loadng {
+  width: 100%;
+  min-height: 100vh;
+  height: auto;
+}
+
+.spinner-border {
+  --bs-spinner-width: 3rem !important;
+  --bs-spinner-height: 3rem !important;
+}
