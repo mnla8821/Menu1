@@ -24,4 +24,4 @@ Task that show ypu that you could filter product.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-![screenshot](src/Assets/swiper.png)
+![screenshot](src/menu.png)
